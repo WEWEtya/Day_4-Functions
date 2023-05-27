@@ -16,6 +16,5 @@ int main()
     int v = Sum(q, d);
 
     cout << v << endl;
- 
 
 }
